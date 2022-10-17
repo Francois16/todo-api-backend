@@ -17,6 +17,7 @@ defusedxml==0.7.1; python_version >= '2.7' and python_version not in '3.0, 3.1, 
 dj-database-url==1.0.0
 dj-email-url==1.0.6
 django-cache-url==3.4.2
+django-cors-headers==3.13.0
 django-templated-mail==1.1.1
 django==4.1.2
 djangorestframework-simplejwt==4.8.0

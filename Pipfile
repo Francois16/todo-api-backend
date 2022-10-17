@@ -10,6 +10,7 @@ djangorestframework-simplejwt = "*"
 environs = {extras = ["django"], version = "*"}
 djoser = "*"
 gunicorn = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 
