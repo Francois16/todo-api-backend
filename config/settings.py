@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     # LOCAL
     "accounts",
+    "todo",
     # 3RD PARTY
     "rest_framework",
     "djoser",
