@@ -28,7 +28,7 @@ env.read_env()
 SECRET_KEY = env("SECRET_KEY")
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = env("DEBUG", True)
 
 ALLOWED_HOSTS = ["todo-api.up.railway.app", "localhost"]
 
