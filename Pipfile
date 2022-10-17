@@ -8,6 +8,7 @@ django = "*"
 djangorestframework = "*"
 djangorestframework-simplejwt = "*"
 environs = {extras = ["django"], version = "*"}
+djoser = "*"
 
 [dev-packages]
 
